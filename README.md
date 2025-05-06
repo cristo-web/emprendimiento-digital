@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Emprendimiento Digital 
 
 Taller práctico de HTML y CSS
 
@@ -28,4 +28,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [cristo-web](https://github.com/cristo-web) 😊

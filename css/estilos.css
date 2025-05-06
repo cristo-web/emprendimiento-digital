@@ -75,6 +75,9 @@ img{
     border-radius: 8px;
 }
 
+.img_tarjeta{
+    width: 30%;
+}
 /* Estilos de las tarjetas de servicios */
 .tarjetas{
     display: flex;
@@ -113,3 +116,27 @@ img{
         width: 80%;
     }
 }
+
+.btn-plan {
+    background-color: #2ec4b0; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-plan:hover {
+    background-color: #e67d7d; 
+  }
+
+.contenedor-plan {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+}
+
+  

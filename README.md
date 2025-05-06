@@ -10,19 +10,21 @@ Esta práctica muesta como aplicar estilos CSS a un sitio web construido con HTM
 
 ## Estructura del proyecto 📁
 
+```txt
 emprendimiento-digital/
 ├── css/
-│ └── estilos.css
+│   └── estilos.css
 ├── img/
-│ └── (imágenes del sitio)
+│   └── (imágenes del sitio)
 ├── pages/
-│ ├── plan_basico.html
-│ ├── plan_estandar.html
-│ └── plan_premium.html
+│   ├── plan_basico.html
+│   ├── plan_estandar.html
+│   └── plan_premium.html
 ├── index.html
 ├── servicios.html
 ├── nosotros.html
 └── README.md
+```
 
 ### Pre-requisitos 📋
 
@@ -57,15 +59,15 @@ emprendimiento-digital/
 
 ### Detalle del Plan Estándar 
 
-![Captura Plan Básico](img/Plan2.PNG)
+![Captura Plan Estándar](img/Plan2.PNG)
 
 ### Detalle del Plan Premium
 
-![Captura Plan Básico](img/Plan3.PNG)
+![Captura Plan Premium](img/Plan3.PNG)
 
 ### Página de Nosotros
 
-![Captura Servicios](img/Nosotros.PNG)
+![Captura Nosotros](img/Nosotros.PNG)
 
 ## Instrucciones para clonar y visualizar el proyecto 🛠️
 
